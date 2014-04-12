@@ -1,14 +1,14 @@
 Manufactoria solutions
 =============
 
-1.(Robotoast)[Robotoast.md]
+1.()[.md](Robotoast)[Robotoast.(md)[md.md]]
 2.(Robocoffee)[Robocoffee.md]
 3.(Robolamp)[Robolamp.md]
 4.(Robofish)[Robofish.md]
 5.(Robobugs)[Robobugs.md]
 6.(Robocats)[Robocats.md]
 7.(Robobears)[Robobears.md]
-8.(RC Cars)[RC Cars.md]
+8.(RC)[RC.md] Cars
 9.(Robocars)[Robocars.md]
 10.(Robostilts)[Robostilts.md]
 11.(Milidogs)[Milidogs.md]
