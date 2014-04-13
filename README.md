@@ -19,7 +19,7 @@ Manufactoria solutions
 16. [Robospies](levels/16-Robospies.md) 8 Parts
 17. [Androids](levels/17-Androids.md) 12 Parts
 18. [Robochildren](levels/18-Robochildren.md) 20 Parts
-19. [Police](levels/19-Police.md) 41 Parts
+19. [Police](levels/19-Police.md) 38 Parts
 20. [Judiciary](levels/20-Judiciary.md) 51 Parts
 21. [Teachers](levels/21-Teachers.md) 19 Parts
 22. [Politicians](levels/22-Politicians.md) 23 Parts
@@ -30,4 +30,5 @@ Manufactoria solutions
 27. [Rocket Planes](levels/27-Rocket Planes.md) 16 Parts
 28. [Robomecha](levels/28-Robomecha.md) 19 Parts
 29. [Seraphim](levels/29-Seraphim.md) 21 Parts
-30. [Ophanim](levels/30-Ophanim.md) 86 Parts
+30. [Ophanim](levels/30-Ophanim.md) 61 Parts
+31. [Metatron](levels/31-Metatron.md) 89 Parts
