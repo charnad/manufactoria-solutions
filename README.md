@@ -19,8 +19,8 @@ Manufactoria solutions
 16. [Robospies](levels/16-Robospies.md) 8 Parts
 17. [Androids](levels/17-Androids.md) 12 Parts
 18. [Robochildren](levels/18-Robochildren.md) 20 Parts
-19. [Police](levels/19-Police.md) 38 Parts
-20. [Judiciary](levels/20-Judiciary.md) 50 Parts
+19. [Police](levels/19-Police.md) 36 Parts
+20. [Judiciary](levels/20-Judiciary.md) 48 Parts
 21. [Teachers](levels/21-Teachers.md) 19 Parts
 22. [Politicians](levels/22-Politicians.md) 23 Parts
 23. [Academics](levels/23-Academics.md) 27 Parts
