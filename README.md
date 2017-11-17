@@ -32,4 +32,5 @@ Manufactoria solutions
 29. [Seraphim](levels/29-Seraphim.md) 21 Parts
 30. [Ophanim](levels/30-Ophanim.md) 56 Parts
 31. [Metatron](levels/31-Metatron.md) 87 Parts
+
 Total: 597 Parts
